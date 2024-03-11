@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clovicorn
 - 👀 I’m interested in ...C++, x86_64 asm, Python
 - 🌱 I’m currently learning ...SDL
-- 💞️ I’m looking to collaborate on ...C++
+- 💞️ I’m looking to collaborate on ...C++, roguelike games
 - 📫 How to reach me ...here?
 
 <!---
