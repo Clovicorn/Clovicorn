@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Clovicorn
 - 👀 I’m interested in ...C++, x86_64 asm, Python
-- 🌱 I’m currently learning ...Malware analysis
-- 💞️ I’m looking to collaborate on ...Python. x86_64 asm, malware analysis
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...SDL
+- 💞️ I’m looking to collaborate on ...C++
+- 📫 How to reach me ...here?
 
 <!---
 Clovicorn/Clovicorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
