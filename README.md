@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Clovicorn
-- 👀 I’m interested in ...C++, x86_64 asm, Python
-- 🌱 I’m currently learning ...Windows 11 Internals
-- 💞️ I’m looking to collaborate on ...Asm,Windows, Reverse Engineering
+- 👀 I’m interested in ...Go, x86_64 asm, Python
+- 🌱 I’m currently learning ...Web Internals
+- 💞️ I’m looking to collaborate on ...?!?!?!
 - 📫 How to reach me ...Clovicorn at g mail DOT com
 
 <!---
